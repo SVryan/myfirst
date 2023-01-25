@@ -4,9 +4,11 @@ I will write on the Bioinformatics workshop we have had from 23rd january to 27t
 
 
 # Day One
-Installation of tools
-Install:
+**Installation of tools**
+1. *Download shell-lesson-data.zip and move the file to your Desktop.*
+2. *Unzip/extract the file. Let your instructor know if you need help with this step. You should end up with a new folder called shell-lesson-data on your Desktop*
 
+Install:
 1. Gitbash
 2. R studio
 
