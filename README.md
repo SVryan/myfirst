@@ -14,7 +14,9 @@ Install:
 
 ## Day Two
 **Introduction to commands**
+
 **Introducing shell**
+
 -*A shell is a program whose primary purpose is to read commands and run other programs.*
 -*This lesson uses Bash, the default shell in many implementations of Unix.*
 -*Programs can be run in Bash by entering commands at the command-line prompt.*
