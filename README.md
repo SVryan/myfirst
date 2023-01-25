@@ -15,7 +15,7 @@ Install:
 ## Day Two
 **Introduction to commands**
 
-**Introducing shell**
+>**Introducing shell**
 
 -*A shell is a program whose primary purpose is to read commands and run other programs.*
 
