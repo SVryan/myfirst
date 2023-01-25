@@ -11,6 +11,6 @@ Install:
 2. R studio
 
 # Day Two
-*8Introduction to commands**
+**Introduction to commands**
 
 # Day Three
