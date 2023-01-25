@@ -7,10 +7,10 @@ I will write on the Bioinformatics workshop we have had from 23rd january to 27t
 Installation of tools
 Install:
 
-Gitbash
-R studio
+1. Gitbash
+2. R studio
 
 # Day Two
-Introduction to commands 
+*8Introduction to commands**
 
 # Day Three
